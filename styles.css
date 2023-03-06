@@ -94,11 +94,6 @@ nav ul ul li {
   padding-right: 120px;
 }
 
-.image-stack{
-border:5px solid;
-border-color: white;
-border-top:30px;
-}
 
 #rolls {
 border-radius: 250%;
@@ -108,8 +103,10 @@ padding-left:150px;
 }
 
 #bord {
-	
-	padding-top:50px;
+border:5px solid;
+border-color: white;
+border-top:30px;
+padding-top:50px;
 }
 
 #glass{
