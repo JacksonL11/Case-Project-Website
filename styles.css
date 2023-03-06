@@ -119,10 +119,8 @@ border-top:30px;
 
 .image-stack {
   position: relative;
-  width: 100%;
 }
 
 img {
-  width: 100%;
   display: block;
 }
