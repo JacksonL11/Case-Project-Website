@@ -99,11 +99,11 @@ nav ul ul li {
 
 #rolls {
 border-radius: 250%;
-padding-top:100px;
+padding-top:0px;
 padding-left:0px;
 border:5px solid;
 border-color: white;
-border-top:100px;
+border-top:30px;
 }
 
 
