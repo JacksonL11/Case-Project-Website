@@ -111,14 +111,3 @@ padding-top:50px;
 #bord {
 }
 
-#glass{
-border:5px solid;
-border-color: white;
-border-top:30px;
-padding-top:50px;
-border-radius: 250%;
-}
-
-img {
-  display: block;
-}
