@@ -108,6 +108,10 @@ border-top:30px;
 }
 
 #glass{
-padding-bottom:50000px;
-	
+padding-top:20px;
+padding-left:50px;
+border-radius: 250%;
+border:5px solid;
+border-color: white;
+border-top:30px;
 }
