@@ -95,23 +95,25 @@ nav ul ul li {
 }
 
 .image-stack{
-border-radius: 250%;
 border:5px solid;
 border-color: white;
 border-top:30px;
 }
+
 #rolls {
+border-radius: 250%;
 position: absolute;
 padding-top:20px;
 padding-left:150px;
 }
 
 #bord {
+	
 	padding-top:50px;
 }
 
 #glass{
-
+border-radius: 250%;
 }
 
 img {
