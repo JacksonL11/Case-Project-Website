@@ -108,6 +108,7 @@ border-top:30px;
 }
 
 #glass{
+position: absolute;
 padding-top:20px;
 padding-left:50px;
 border-radius: 250%;
@@ -117,4 +118,9 @@ border:5px solid;
 .image-stack {
   position: relative;
   width: 100%;
+}
+
+img {
+  width: 100%;
+  display: block;
 }
