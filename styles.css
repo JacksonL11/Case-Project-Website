@@ -55,6 +55,7 @@ nav ul {
 	}
 	
 nav ul li {
+	position: relative;
 	display:inline-block;
 	background-color: #D1B000;
   padding-left: 0px;
