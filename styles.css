@@ -77,20 +77,20 @@ nav a:hover {
 /* Hide Dropdowns by Default */
 nav ul ul {
 	display: none;
-	position: absolute; 
+	position: relative;
 	top: 60px; /* the height of the main nav */
     padding:0 80px;
 }
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
-	position: absolute; 
+	position: relative;
 	display:inherit;
 }
 	
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-	position: absolute; 
+	position: relative;
 	width:500px;
 	float:none;
 	display:list-item;
