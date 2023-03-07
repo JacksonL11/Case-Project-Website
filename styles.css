@@ -81,7 +81,7 @@ nav ul ul li {
 width:500px;
 float:none;
 display:list-item;
-position: absolute;
+position: relative;
 }
 #rolls {
 margin-top:50px;
