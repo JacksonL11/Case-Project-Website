@@ -41,30 +41,30 @@ h1 {
 	margin: 0 auto;
 }
 
+p {
+	text-align: center;
+}
+
 nav {
-	margin: 0px 0;
-	background-color: #D1B000;
-  padding: 20px;
+	margin: 50px 0;
+	background-color: #E64A19;
 }
 
 nav ul {
 	padding: 0;
   margin: 0;
-	position: relative;
 	list-style: none;
+	position: relative;
 	}
 	
 nav ul li {
-	
 	display:inline-block;
-	background-color: #D1B000;
-  padding-left: 0px;
-	
+	background-color: #E64A19;
 	}
 
 nav a {
 	display:block;
-	padding:0 80px;	
+	padding:0 10px;	
 	color:#FFF;
 	font-size:20px;
 	line-height: 60px;
@@ -73,30 +73,35 @@ nav a {
 
 nav a:hover { 
 	background-color: #000000; 
-	
 }
 
 /* Hide Dropdowns by Default */
 nav ul ul {
 	display: none;
+	position: absolute; 
 	top: 60px; /* the height of the main nav */
-    padding:0 80px;
 }
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
-	position: relative;
 	display:inherit;
 }
 	
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-	position: absolute;
-	width:500px;
+	width:170px;
 	float:none;
 	display:list-item;
-  padding-right: 120px;
+	position: relative;
 }
+
+/* Second, Third and more Tiers	*/
+nav ul ul ul li {
+	position: relative;
+	top:-60px; 
+	left:170px;
+}
+
 
 #rolls {
 position: absolute; 
