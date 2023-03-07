@@ -84,13 +84,13 @@ nav ul ul {
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
-	
+	position: absolute; 
 	display:inherit;
 }
 	
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-	
+	position: absolute; 
 	width:500px;
 	float:none;
 	display:list-item;
@@ -98,6 +98,7 @@ nav ul ul li {
 }
 
 #rolls {
+position: absolute; 
 margin-top:50px;
 border-radius: 250%;
 padding-top:0px;
