@@ -78,7 +78,7 @@ nav a:hover {
 /* Hide Dropdowns by Default */
 nav ul ul {
 	display: none;
-	
+	position: relative;
 	top: 60px; /* the height of the main nav */
     padding:0 80px;
 }
