@@ -73,6 +73,7 @@ nav a {
 
 nav a:hover { 
 	background-color: #000000; 
+	
 }
 
 /* Hide Dropdowns by Default */
@@ -84,6 +85,7 @@ nav ul ul {
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
+	position: relative;
 	display:inherit;
 }
 	
