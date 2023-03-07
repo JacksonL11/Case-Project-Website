@@ -51,11 +51,11 @@ nav ul {
 	padding: 0;
   margin: 0;
 	list-style: none;
-	position: relative;
+	
 	}
 	
 nav ul li {
-	position: relative;
+	
 	display:inline-block;
 	background-color: #D1B000;
   padding-left: 0px;
@@ -77,14 +77,14 @@ nav a:hover {
 /* Hide Dropdowns by Default */
 nav ul ul {
 	display: none;
-	position: relative;
+	
 	top: 60px; /* the height of the main nav */
     padding:0 80px;
 }
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
-	position: relative;
+	
 	display:inherit;
 }
 	
