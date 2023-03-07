@@ -79,10 +79,10 @@ nav ul li:hover > ul {
 
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-		width:170px;
-	float:none;
-	display:list-item;
-	position: relative;
+width:500px;
+float:none;
+display:list-item;
+position: relative;
 }
 #rolls {
 position: absolute; 
