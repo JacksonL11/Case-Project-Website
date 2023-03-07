@@ -85,7 +85,7 @@ nav ul ul {
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
-	
+	position: relative;
 	display:inherit;
 }
 	
