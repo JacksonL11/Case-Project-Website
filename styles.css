@@ -79,18 +79,18 @@ nav ul ul {
 	display: none;
 	position: absolute; 
 	top: 60px; /* the height of the main nav */
-    padding:0 80px
+    padding:0 80px;
 }
 	
 /* Display Dropdowns on Hover */
 nav ul li:hover > ul {
-	position: absolute;
+	
 	display:inherit;
 }
 	
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-	position: absolute;
+	
 	width:500px;
 	float:none;
 	display:list-item;
