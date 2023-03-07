@@ -93,6 +93,7 @@ border-color: white;
 border-top:30px;
 }
 #models {
+position: top;
 margin-left: 800px;
 font-family: 'Raleway', sans-serif;
 font-size: 15px;
