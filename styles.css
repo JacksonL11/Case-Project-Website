@@ -59,7 +59,7 @@ nav ul li {
 	display:inline-block;
 	background-color: #D1B000;
   padding-left: 0px;
-	position: relative;
+	
 	}
 
 nav a {
@@ -91,7 +91,7 @@ nav ul li:hover > ul {
 	
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-	position: relative;
+	position: absolute;
 	width:500px;
 	float:none;
 	display:list-item;
