@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+@import url(https://fonts.google.com/specimen/Raleway);
 
 body {
 	background: #212121;
@@ -104,6 +104,13 @@ padding-left:0px;
 border:5px solid;
 border-color: white;
 border-top:30px;
+}
+
+#models {
+font-family: 'Raleway', sans-serif;
+font-size: 12px;
+margin-left: 250px;
+margin-top:50px;
 }
 
 
