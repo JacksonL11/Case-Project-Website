@@ -111,6 +111,7 @@ margin-bottom: 90px;
 }
 
 #models {
+position:absolute;
 font-family: 'Raleway', sans-serif;
 font-size: 15px;
 margin-left: 800px;
@@ -121,7 +122,7 @@ padding:10px;
 }
 
 h2{
-font-size: 100px;
+font-size: 60px;
 font-family 'Raleway', sans-serif;
 font-weight: Bold;
 margin-left: 1200px;
