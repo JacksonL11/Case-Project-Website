@@ -93,13 +93,13 @@ border-color: white;
 border-top:30px;
 }
 #models {
-margin-left: 600px;
+margin-left: 650px;
 flex-grow: 1;
 font-family: 'Raleway', sans-serif;
 font-size: 15px;
 border: 2px solid;
 border-color: white;
-margin-bottom:400px;
+margin-top:-400px;
 }
 h2{
 font-size: 60px;
