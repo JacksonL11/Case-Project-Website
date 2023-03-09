@@ -31,7 +31,6 @@ h1 {
 	font-family: 'Corsiva 'serif';
 	}
 #container {
-	margin: 0 auto;
 }
 nav {
 	margin: 0px 0;
@@ -94,6 +93,7 @@ border-color: white;
 border-top:30px;
 }
 #models {
+margin-left: 800px;
 flex-grow: 1;
 font-family: 'Raleway', sans-serif;
 font-size: 15px;
