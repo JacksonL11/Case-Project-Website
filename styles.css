@@ -84,7 +84,7 @@ display:list-item;
 position: relative;
 }
 #rolls {
-margin-top: 140px;
+margin-top: -600px;
 border-radius: 250%;
 padding-top:0px;
 padding-left:0px;
@@ -98,7 +98,7 @@ font-family: 'Raleway', sans-serif;
 font-size: 15px;
 border: 2px solid;
 border-color: white;
-margin-bottom:50px;
+margin-bottom:800px;
 }
 h2{
 font-size: 60px;
